@@ -1,0 +1,40 @@
+{
+  "name": "fb-token-updater",
+  "version": "1.0.0",
+  "description": "A minimal Facebook token updater.",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "license": "MIT",
+  "dependencies": {
+    "fbgraph": "^1.4.1",
+    "jsonrequest": "^4.1.5",
+    "lien": "^2.2.2"
+  },
+  "homepage": "https://github.com/IonicaBizau/fb-token-updater#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/fb-token-updater.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/fb-token-updater/issues"
+  }
+}
