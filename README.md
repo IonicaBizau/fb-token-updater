@@ -29,7 +29,7 @@
 
 
 
-> A minimal Facebook token updater.
+> Minimal Facebook token updater.
 
 
 
