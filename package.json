@@ -1,6 +1,6 @@
 {
   "name": "fb-token-updater",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal Facebook token updater.",
   "main": "lib/index.js",
   "scripts": {
@@ -26,6 +26,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
